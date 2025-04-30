@@ -45,7 +45,7 @@ my-assignment/
    - Ensure all media files are in the same folder as `media.html` for proper loading.
 
 2. **Online** (if GitHub Pages is enabled):
-   - Visit `[GitHub Pages URL]/media.html` or `[GitHub Pages URL]/courses.html` (e.g., `https://yourusername.github.io/my-assignment/media.html`).
+   - Visit '(https://github.com/chrispok18/Altschool-Assignment-2/blob/main/README.md).
    - Note: GitHub Pages must be enabled in the repository settings under "Pages" by selecting the `main` branch.
 
 ## Technologies Used
@@ -58,4 +58,4 @@ my-assignment/
 To run or modify the project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-assignment.git
+   git clone [https://github.com/yourusername/my-assignment.git](https://github.com/chrispok18/Altschool-Assignment-2/blob/main/README.md)
