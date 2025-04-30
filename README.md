@@ -1,5 +1,6 @@
 # Altschool-Assignment-2
-# AttSchool Africa Assignment
+# Creating the Web Page (index.html)
+
 
 This repository contains my web development assignment for AttSchool Africa, showcasing HTML skills through two pages: an "About Me" page with multimedia elements and a courses page listing AttSchool Africa's offerings.
 
